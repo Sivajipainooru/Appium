@@ -9,6 +9,7 @@ public class DemoTest extends BaseClass {
 	public void runDEmo() throws MalformedURLException
 	{
 		capabilities();
+		System.out.println("done");
 	}
 
 }
